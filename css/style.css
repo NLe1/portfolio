@@ -841,7 +841,7 @@ body:after {
   background-position: center center;
   overflow: hidden;
   position: relative;
-  background-image: url("/portfolio/images/background.jpeg");
+  background-image: url("https://raw.githubusercontent.com/NLe1/portfolio/master/images/background.jpeg");
 }
 
 .site-blocks-cover .lead {
