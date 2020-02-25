@@ -842,7 +842,7 @@ body:after {
   background-position: center center;
   overflow: hidden;
   position: relative;
-  background-image: url("/images/background.jpeg");
+  background-image: url("../images/background.jpeg");
 }
 
 .site-blocks-cover .lead {
