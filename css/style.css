@@ -106,9 +106,9 @@ body:after {
 }
 
 .btn.btn-primary:hover {
-  background: #000;
-  border-color: #000;
-  color: #fff;
+  background: #fff;
+  border-color: #eeeeee;
+  color: #000;
 }
 
 .btn.btn-primary.btn-black--hover:hover {
